@@ -26,3 +26,7 @@ Obtížnost: 0/10
 Také jsem se nechal inspirovat AI, avšak menší obtíží byly styly.
 Bolest téměř žádná.
 Obtížnost: 4/10
+Jak bych se mohl zlepšit/ co bych zlepšil?
+Rád bych nenechával věci na poslední chvíli a možná se podíval i na pár videí, které by mi něco daly, ale na to nejsem dostatečně motivován ani disciplinován, v budoucnu se to snad změní.
+Určitě bych přidal více věcí do mojí webové stránky, ale bohužel jsem omezen mou znalostní kapacitou.
+
