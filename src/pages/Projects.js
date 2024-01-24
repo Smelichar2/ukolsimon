@@ -71,12 +71,12 @@ const Projects = () => {
 
         <StyledPage>
             <motion.div className="projects-info" initial={{ opacity: 0, y: -50 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }}>
-                <StyledPink style={{ fontSize: '60px' }}>&lt;/</StyledPink>
+                <StyledPink style={{ fontSize: '60px' }}>&lt;</StyledPink>
                 <div style={{ lineHeight: '1.2', textAlign: 'center' }}>
                     <StyledBlue>Here </StyledBlue><StyledWhite>are some</StyledWhite><br />
                     <StyledWhite>of my </StyledWhite>
-                    <StyledGreen>Projects</StyledGreen>
-                    <StyledPink style={{ fontSize: '60px' }}>&gt;</StyledPink>
+                    <StyledGreen>Projects  </StyledGreen>
+                    <StyledPink style={{ fontSize: '60px' }}>/&gt;</StyledPink>
                 </div>
             </motion.div>
 
