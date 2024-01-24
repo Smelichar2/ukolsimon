@@ -17,7 +17,7 @@ const Home = () => {
                     <div className="hero">
                         <img src={fotka}/>
 
-                        <p><p1>Lorem ipsum dolor </p1>sit amet, consectetuer <p2>adipiscing elit</p2>. Praesent in mauris eu tortor porttitor <p3>accumsan</p3>.</p>
+                        <p><p1>Lorem ipsum dolors </p1>sit amet, consectetuer <p2>adipiscing elit</p2>. Praesent in mauris eu tortor porttitor <p3>accumsan</p3>.</p>
                     </div>
                 </motion.div>
                 <div className="stats-info">
